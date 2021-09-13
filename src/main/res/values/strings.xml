@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratorio 1</string>
+    <string name="tvBienvenida">Hola Mundo</string>
+    <string name="btSiguiente">Sigiente</string>
+    <string name="tvTextoPrincipalP1">Cliquear boton</string>
+    <string name="btAtras">Boton Atras</string>
+</resources>
